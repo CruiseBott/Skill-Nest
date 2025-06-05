@@ -1,5 +1,4 @@
 # Skill-Nest 
-**Hackathon Project – Nirman, February 2024**
 
 This project is an AI-powered learning and activity tracking platform designed for personalized skill development. Built using Flask, MongoDB, and data analysis libraries, the platform recommends courses, logs user activity, and provides admins with insightful dashboards.
 
